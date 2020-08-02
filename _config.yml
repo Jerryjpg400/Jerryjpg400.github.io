@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: Welcome here 
+github:
+  is_project_page: false
