@@ -238,7 +238,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/Song.png
 
 
 # Table Of Contents in the Sidebar
@@ -334,9 +334,9 @@ post_wordcount:
 
 # Reward settings
 reward_comment: Support this independent blog by donating a coffee to the writer :)
-wechatpay: /assets/images/wechat-pay.png
+# wechatpay: /assets/images/wechat-pay.png
 # alipay:
-
+# alipaypay: /assets/images/aplipay-pay.png
 # Declare license on posts
 post_copyright:
   enable: false
