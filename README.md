@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SinanTalk - moments of serendipity
 
-You can use the [editor on GitHub](https://github.com/Jerryjpg400/Jerryjpg400.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+please visit: [sinantang.github.io](https://sinantang.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+collection of my main blogs (at the moment mostly in Chinese, but I'm trying to write more in English!)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I finally got a chance to reorganise and review my blogs which I've been writing since 2016.
+They were riginally published on WeChat Public Space and some on Jianshu.com. With the wish to reach a more diverse readership, I picked a few satisfying articles and put them up on my new personal site now.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### If you want to know more:
+Writing is part of my life. 
+I write on a broad range of topics, including books, movies, commentary, technology, business and my life. 
+Most recently, I've started a new series *A Developer Guide for Newbies - Starting with Python* to challenge myself. I believe that from our generation on, everyone should and is able to master basic programming skills to explore more undiscovered opportunities of life ahead. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jerryjpg400/Jerryjpg400.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So far I'm having great fun!
