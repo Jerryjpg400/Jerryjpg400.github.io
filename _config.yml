@@ -6,7 +6,7 @@
 # Site
 title: 菩提树下你和我
 subtitle: 
-description: moments of serendipity
+description: 我思故我在
 author: Carl
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -92,7 +92,7 @@ rss:
 since: 2021
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: id-card
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -334,7 +334,7 @@ post_wordcount:
 
 # Reward settings
 reward_comment: Support this independent blog by donating a coffee to the writer :)
-# wechatpay: /assets/images/wechat-pay.png
+wechatpay: /assets/images/wechat-pay.png
 # alipay:
 # alipaypay: /assets/images/aplipay-pay.png
 # Declare license on posts
